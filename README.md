@@ -1,6 +1,6 @@
 # python-stuff
-collection of scripts and functions used by the lab
+Collection of scripts and functions used by the lab
 
-MATLAB functions from Petros for smoothing GCaMP signals ported to Python by Z. Royston (Konnerth lab algorithms)
->- EWMA.py from EWMA.m <br />
->- process_function_jc.py from process_function_jc.m <br />
+EWMA.py - from EWMA.m  - MATLAB function from Petros (UCF) for noise-filtering GCaMP signals ported to Python (ala Konnerth lab)<br />
+
+process_function_jc.py - from process_function_jc.m - MATLAB function from Petros (UCF) for noise-filtering GCaMP signals ported to Python >>(ala Konnerth lab)<br />
